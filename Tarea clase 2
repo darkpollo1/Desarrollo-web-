@@ -15,8 +15,8 @@ Para el presente análisis se seleccionó la aplicación YouTube,es una pagina w
 
 En el caso de Youtube, Actúa como la capa de interacción que conecta al usuario con la infraestructura técnica del sistema, permitiendo se presenten de manera clara, intuitiva y funcional.
 •	Traducción de procesos técnicos: El frontend transforma grandes volúmenes de datos a facil de comprender para el usuario como listas ,videos organisados,tags y todo bien organizado.
-•	Organización y presentación de la información:
-•	Gestión de interacciones:
+•	Organización y presentación de la información:La interfaz utiliza una jerarquía visual estructurada que facilita la exploración de miles videos,series música y streaming.
+•	Gestión de interacciones:La interacción se basa principalmente con los videos dando me gusta, comentarios,crear listas de videos que te gustaron y siguiendo los creadores de los vídeos que te interesan.
 
 3. Aspectos positivos del frontend
 
@@ -30,4 +30,8 @@ En el caso de Youtube, Actúa como la capa de interacción que conecta al usuari
 
 5. Aplicación del modelo top-down
 
+enfoque en la búsqueda de videos que te gustan 
+
+
 6. Reflexión final
+Es una página web que se en foca en retener a los usarios lo mas tiempo posible con videos recomendados de pendiendo los gustos del usuario 
