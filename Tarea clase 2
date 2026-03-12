@@ -14,15 +14,19 @@ Para el presente análisis se seleccionó la aplicación YouTube,es una pagina w
 2. Análisis del rol del frontend en la aplicación
 
 En el caso de Youtube, Actúa como la capa de interacción que conecta al usuario con la infraestructura técnica del sistema, permitiendo se presenten de manera clara, intuitiva y funcional.
-•	Traducción de procesos técnicos: El frontend transforma grandes volúmenes de datos, facil de comprender 
+•	Traducción de procesos técnicos: El frontend transforma grandes volúmenes de datos a facil de comprender para el usuario como listas ,videos organisados,tags y todo bien organizado.
 •	Organización y presentación de la información:
 •	Gestión de interacciones:
+
 3. Aspectos positivos del frontend
 
+• Que la barra de búsqueda está en todo momento en el mismo lugar y es de acceso rápido.
 
+• Que la página principal sea de vidios recomendados sean ordenados y que sea un mixto de personas suscritas y no suscritas.
 
 4. Aspectos negativos del frontend
-
+• que no tenga una página de tus suscriciones que te muestre una lista grande de tus suscriciones 
+• de la lista de suscripciones que no esté ordenada alfabéticamente y que este organizada por suscriciones más recientes a menos es más difícil buscar ciertos canales al buscadorlos al tener una gran cantidad de suscriciones 
 
 5. Aplicación del modelo top-down
 
